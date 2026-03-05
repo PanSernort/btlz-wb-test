@@ -1,0 +1,8 @@
+.dockerignore
+node_modules
+.vscode
+.sql
+.idea
+dist
+.env
+google-credentials.json
